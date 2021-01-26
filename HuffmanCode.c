@@ -1,7 +1,7 @@
 # include <stdlib.h>
 # include <stdio.h>
 
-#define N 50
+# define N 50
 
 struct noeuds {
     char Lettre;  // Le caractère.
